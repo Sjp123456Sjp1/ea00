@@ -1,0 +1,18 @@
+    * {
+        padding: 0;
+        margin: 0;
+    }
+    header {
+        background-color: ;
+    }
+    h1{
+        color: rgb(225, 137, 137);
+    }
+    header a{
+        color: rgb(192, 122, 122);
+        text-decoration: none;
+    }
+    header a:hover{
+        text-decoration: underline;
+    }
+      
